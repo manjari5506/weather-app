@@ -5,4 +5,5 @@ It contains some cool features like save the weather data in redux-store and ses
 
 To use the app, type a name of the city and click on 'Search' or on 'Get Your Location' button, every time you click on the button first it will check if the data is available in the session storage or not, and if not then it will send a network request else it will take the data from session-storage.
 
-# See the live demo of this app- https://guileless-bonbon-74d7b5.netlify.app/
+# Live app link
+https://guileless-bonbon-74d7b5.netlify.app/
